@@ -1,0 +1,7 @@
+# Stock analysis bot ignores
+.venv/
+__pycache__/
+*.pyc
+*.csv
+*.json
+.env

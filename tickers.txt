@@ -1,0 +1,18 @@
+# Symbols to screen, one per line.
+# Replace this starter list with the universe you want to search.
+AAPL
+MSFT
+NVDA
+AMZN
+GOOGL
+META
+TSLA
+AVGO
+JPM
+V
+WMT
+COST
+NFLX
+ADBE
+AMD
+
